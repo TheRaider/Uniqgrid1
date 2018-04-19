@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:id="@+id/nsAddEst">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+            <android.support.v7.widget.CardView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginBottom="15dp"
+                android:focusableInTouchMode="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="20dp">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="10dp"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="15dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="CONSUMPTION PATTERN"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/card_heading"
+                            android:textSize="12dp"
+                            android:textStyle="bold"
+                            android:paddingBottom="5dp"/>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@color/card_heading" />
+                    </LinearLayout>
+
+                    <com.github.mikephil.charting.charts.BarChart
+                        android:id="@+id/barchart"
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        />
+
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginBottom="15dp"
+                android:focusableInTouchMode="true"
+                >
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="10dp"
+                    android:paddingBottom="10dp">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:paddingTop="10dp"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="5dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="DETAILS"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/card_heading"
+                            android:textSize="12dp"
+                            android:textStyle="bold"
+                            android:paddingBottom="5dp"/>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginLeft="10dp"
+                            android:background="@color/card_heading" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            >
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="2"
+                                android:textColor="#aa000000"
+                                android:layout_height="wrap_content"
+                                android:text="Annual Energy"/>
+
+                            <TextView
+                                android:id="@+id/tvAnnualEnergy"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text=": 22451"
+                                android:textColor="@color/black" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            >
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="2"
+                                android:textColor="#aa000000"
+                                android:layout_height="wrap_content"
+                                android:text="Maximum Annual Energy"/>
+
+                            <TextView
+                                android:id="@+id/tvMaxAnnualEnergy"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text=": 3177"
+                                android:textColor="@color/black" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            >
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="2"
+                                android:textColor="#aa000000"
+                                android:layout_height="wrap_content"
+                                android:text="Average Energy"/>
+
+                            <TextView
+                                android:id="@+id/tvAvgEnergy"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text=": 1816.50 units"
+                                android:textColor="@color/black" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            >
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="2"
+                                android:textColor="#aa000000"
+                                android:layout_height="wrap_content"
+                                android:text="Standard Deviation"/>
+                            <TextView
+                                android:id="@+id/tvStandardDeviation"
+                                android:layout_width="0dp"
+                                android:layout_weight="1"
+                                android:layout_height="wrap_content"
+                                android:textColor="@color/black"
+                                android:text=": 100"/>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            >
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_weight="2"
+                                android:textColor="#aa000000"
+                                android:layout_height="wrap_content"
+                                android:text="Annual Energy Cost"/>
+
+                            <TextView
+                                android:id="@+id/tvAnnualEnergyCost"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text=": INR 100"
+                                android:textColor="@color/black" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:padding="7dp"
+                            android:gravity="center"
+                            android:visibility="gone">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:textColor="#000000"
+                                android:layout_height="wrap_content"
+                                android:text="Annual Energy Cost"/>
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="  : INR 100"
+                                android:textColor="#18b305" />
+                        </LinearLayout>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="7dp"
+                            android:textSize="12sp"
+                            android:text="* The above consumption attributes are estimated figures."
+                            android:textStyle="italic"/>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+    </android.support.v4.widget.NestedScrollView>
+</RelativeLayout>

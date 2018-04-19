@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Apr 18 16:40:09 IST 2018
+1.base=E\:\\Android\#Vineeth\\Uniqgrid Intern\\Uniqgrid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=fonts/ocrExtended.TTF
+0.set=ASSET
+0.base=E\:\\Android\#Vineeth\\Uniqgrid Intern\\Uniqgrid\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

@@ -1,0 +1,4 @@
+#Wed Apr 18 16:40:09 IST 2018
+base.0=E\:\\Android\#Vineeth\\Uniqgrid Intern\\Uniqgrid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex

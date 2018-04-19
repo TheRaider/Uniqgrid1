@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <!-- <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout> -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="?attr/actionBarSize"
+          android:orientation="horizontal"
+          android:paddingTop="7dp"
+          android:paddingLeft="7dp"
+          android:paddingRight="7dp"
+          android:paddingBottom="3dp">
+          <ImageView
+              android:id="@+id/ivDrawerIcon"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:padding="5dp"
+              android:layout_gravity="start"
+              android:src="@drawable/ic_sort"
+              android:tint="@color/colorPrimary"/>
+          <TextView
+              android:id="@+id/tvLogo"
+              android:layout_width="wrap_content"
+              android:layout_height="match_parent"
+              android:padding="5dp"
+              android:layout_weight="1"
+              android:textSize="18sp"
+              android:text="UNIQGRID"
+              android:textColor="@color/colorPrimary"
+              android:textStyle="bold"
+              android:gravity="center"
+              android:maxLines="1"
+              android:layout_gravity="center"
+              android:visibility="gone"/>
+
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_weight="1"
+              android:layout_height="50dp"
+              android:src="@drawable/logo"
+              android:tint="@color/colorPrimary"/>
+          <ImageView
+              android:id="@+id/ivRefresh"
+              android:layout_width="40dp"
+              android:layout_height="40dp"
+              android:padding="6dp"
+              android:src="@drawable/ic_refresh"
+              android:layout_gravity="end"
+              android:tint="@color/colorPrimary"/>
+      </LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:id="@+id/fragment_container"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_gravity="bottom"
+            app:itemIconTint="@drawable/bottomselector"
+            app:itemTextColor="@drawable/bottomselector"
+            android:background="?android:attr/windowBackground"
+            app:menu="@menu/navigation" />
+
+    </LinearLayout>
+
+
+
+
+
+    <!--
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/fragment_container"
+             />
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="0dp"
+            android:layout_marginStart="0dp"
+            android:layout_gravity="bottom"
+            app:itemIconTint="@drawable/bottomselector"
+            app:itemTextColor="@drawable/bottomselector"
+            android:background="?android:attr/windowBackground"
+            app:menu="@menu/navigation" />
+
+    </LinearLayout>
+    -->
+
+
+
+</android.support.design.widget.CoordinatorLayout>

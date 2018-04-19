@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uniqgrid.solarenergy.uniqgrid"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- API Key to access Google Places API -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_places_key" />
+
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.thefinestartist.finestwebview.FinestWebViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="sensor"
+            android:theme="@style/FinestWebViewTheme.Light" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.RegisterActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.ProfileActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.TicketsActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.EnergyViewActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.SplashScreen"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.WelcomeActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.LogTicketActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.uniqgrid.solarenergy.uniqgrid.LoginActivityNew"
+            android:configChanges="orientation|screenSize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.uniqgrid.solarenergy.uniqgrid.WelcomeActivityNew" />
+        <activity android:name="com.uniqgrid.solarenergy.uniqgrid.ForgotPasswordActivity" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

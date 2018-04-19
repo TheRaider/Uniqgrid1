@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android#Vineeth\\Uniqgrid\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\04be9c051edde4c984aa65a0c257ab5b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\finestwebview-1.2.7.aar\\601c65ae8d7d7fbca48ecfe679fb3c6d\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,44",
+                        "endOffsets": "93,138"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,371",
+                        "endColumns": "42,44",
+                        "endOffsets": "366,411"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\632600e60fd6f18103491e014af43ad7\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "416",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "593"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Uniqgrid\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\04be9c051edde4c984aa65a0c257ab5b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\finestwebview-1.2.7.aar\\601c65ae8d7d7fbca48ecfe679fb3c6d\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,44",
+                        "endOffsets": "93,138"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,371",
+                        "endColumns": "42,44",
+                        "endOffsets": "366,411"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vinee_000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\632600e60fd6f18103491e014af43ad7\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "416",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "593"
+                    }
+                }
+            ]
+        }
+    ]
+}

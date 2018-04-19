@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 18 12:31:01 IST 2018
+0.baseType=DIRECTORY
+0.base=E\:\\Android\#Vineeth\\Uniqgrid Intern\\Uniqgrid\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/ocrExtended.TTF
+0.set=ASSET
+count=1

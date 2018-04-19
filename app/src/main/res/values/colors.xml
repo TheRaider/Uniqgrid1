@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#094ab2</color>
+    <color name="colorPrimaryDark">#063279</color>
+    <color name="colorAccent">#028ac1</color>
+    <color name="colorPrimaryLight">#637eab</color>
+
+    <color name="card_heading">#2b2b2b</color>
+    <color name="card_heading_red">#ea555a</color>
+    <color name="card_heading_green">#02bf45</color>
+
+
+    <color name="blue">#12a8e6</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#26A65B</color>
+
+    <color name="pink">#fa2970</color>
+    <color name="greyQB">#CCCBC9</color>
+    <color name="greyQBIcon">#655E58</color>
+    <color name="orange">#ff6f00</color>
+    <color name="yellow">#cfcc0a</color>
+
+    <color name="grey">#7b7a7a</color>
+
+
+    <!--Finest WebView Colors -->
+    <color name="redPrimaryDark">#DD3131</color>
+    <color name="redPrimary">#FF5E5E</color>
+    <color name="redPrimaryLight">#FFC9C9</color>
+
+    <color name="bluePrimaryDark">#048BFE</color>
+    <color name="bluePrimary">#2199FF</color>
+    <color name="bluePrimaryLight">#BADFFF</color>
+
+    <color name="blackPrimaryDark">#282828</color>
+    <color name="blackPrimary">#2E2E2E</color>
+    <color name="blackPrimaryLight">#8F8F8F</color>
+
+</resources>

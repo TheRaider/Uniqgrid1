@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_energy_view"
+            android:icon="@drawable/ic_energy"
+            android:title="Energy View" />
+        <item
+            android:id="@+id/nav_tickets"
+            android:icon="@drawable/ic_ticket_normal"
+            android:title="Log Tickets" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/nav_editprofile"
+            android:title="Profile" />
+
+        <!--<item-->
+            <!--android:icon="@drawable/nav_share"-->
+            <!--android:title="Share" />-->
+
+        <!--<item-->
+            <!--android:icon="@drawable/icon_settings"-->
+            <!--android:title="Settings" />-->
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/nav_logout"
+            android:title="Logout" />
+
+
+
+
+
+
+
+    </group>
+
+
+
+
+</menu>

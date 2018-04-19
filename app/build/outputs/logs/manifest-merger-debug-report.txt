@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\finestwebview-1.2.7.aar\601c65ae8d7d7fbca48ecfe679fb3c6d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\27d5bffd5e11023fac47617b81f75468\AndroidManifest.xml:18:1-27:12
+MERGED from [com.thefinestartist:utils:0.9.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\utils-0.9.0.aar\bf7ccf90225b5f88dccf455d2ecbbfe5\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04be9c051edde4c984aa65a0c257ab5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25811bec9493876b967dcf205620b191\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2c9facdbf78b0577cbcfbf51693653ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\65e3fae7ecb1caab6d3e75b384303181\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\4e65dec3fa7e0d240c60ff10d37b5867\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f72e9f0a830f71dd54e661e57cdda5bb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\a185329c616b1197d2dbc255873117af\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\e6f231afe9663e83e905457377e90fea\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69211703b17742f859e22c1f08908f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\57602995a08c216d70574cae27b1f851\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b75c4092a1c0a03e99864fd9e2967c35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\bd521b2f76445d9b0c8b086797c4861a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\95df1af64164366bee54a9b04831fa0a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\b6a247cf73c8c3383c5703539b4bc73b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\d00a1d50fb8499b9006b836651ddfbf2\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e3b67d77c42995eff61701212f3370ca\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e8c6b6418a5f6a5ff24490f7efd15a22\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1fe14d1bf610ccc0592941670394662\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\00c4bd113d415751f48b103182c789ff\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:5:5-98
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:5:22-95
+uses-permission#android.permission.INTERNET
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:9:5-63:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\65e3fae7ecb1caab6d3e75b384303181\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\65e3fae7ecb1caab6d3e75b384303181\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\4e65dec3fa7e0d240c60ff10d37b5867\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\4e65dec3fa7e0d240c60ff10d37b5867\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f72e9f0a830f71dd54e661e57cdda5bb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f72e9f0a830f71dd54e661e57cdda5bb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\a185329c616b1197d2dbc255873117af\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\a185329c616b1197d2dbc255873117af\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\e6f231afe9663e83e905457377e90fea\AndroidManifest.xml:12:5-20
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\e6f231afe9663e83e905457377e90fea\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\95df1af64164366bee54a9b04831fa0a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\95df1af64164366bee54a9b04831fa0a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\b6a247cf73c8c3383c5703539b4bc73b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\b6a247cf73c8c3383c5703539b4bc73b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\d00a1d50fb8499b9006b836651ddfbf2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\d00a1d50fb8499b9006b836651ddfbf2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e8c6b6418a5f6a5ff24490f7efd15a22\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e8c6b6418a5f6a5ff24490f7efd15a22\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1fe14d1bf610ccc0592941670394662\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1fe14d1bf610ccc0592941670394662\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\00c4bd113d415751f48b103182c789ff\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\00c4bd113d415751f48b103182c789ff\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:18:9-20:57
+	android:value
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:20:13-54
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.uniqgrid.solarenergy.uniqgrid.MainActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:22:9-25:48
+	android:label
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:24:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.thefinestartist.finestwebview.FinestWebViewActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:26:9-30:63
+	android:screenOrientation
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:29:13-47
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:30:13-60
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:27:13-83
+activity#com.uniqgrid.solarenergy.uniqgrid.RegisterActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:31:9-33:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:33:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:32:13-45
+activity#com.uniqgrid.solarenergy.uniqgrid.ProfileActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:34:9-36:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:36:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:35:13-44
+activity#com.uniqgrid.solarenergy.uniqgrid.TicketsActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:37:9-39:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:38:13-44
+activity#com.uniqgrid.solarenergy.uniqgrid.EnergyViewActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:40:9-42:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:41:13-47
+activity#com.uniqgrid.solarenergy.uniqgrid.SplashScreen
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:43:9-45:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:45:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:44:13-41
+activity#com.uniqgrid.solarenergy.uniqgrid.WelcomeActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:46:9-48:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:47:13-44
+activity#com.uniqgrid.solarenergy.uniqgrid.LogTicketActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:49:9-51:62
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:51:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:50:13-46
+activity#com.uniqgrid.solarenergy.uniqgrid.LoginActivityNew
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:configChanges
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:54:13-59
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:53:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:58:27-74
+activity#com.uniqgrid.solarenergy.uniqgrid.WelcomeActivityNew
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:61:9-65
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:61:19-53
+activity#com.uniqgrid.solarenergy.uniqgrid.ForgotPasswordActivity
+ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:62:9-69
+	android:name
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml:62:19-57
+uses-sdk
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\finestwebview-1.2.7.aar\601c65ae8d7d7fbca48ecfe679fb3c6d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\finestwebview-1.2.7.aar\601c65ae8d7d7fbca48ecfe679fb3c6d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\27d5bffd5e11023fac47617b81f75468\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.1.aar\27d5bffd5e11023fac47617b81f75468\AndroidManifest.xml:23:5-25:41
+MERGED from [com.thefinestartist:utils:0.9.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\utils-0.9.0.aar\bf7ccf90225b5f88dccf455d2ecbbfe5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.thefinestartist:utils:0.9.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\utils-0.9.0.aar\bf7ccf90225b5f88dccf455d2ecbbfe5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04be9c051edde4c984aa65a0c257ab5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\04be9c051edde4c984aa65a0c257ab5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25811bec9493876b967dcf205620b191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\25811bec9493876b967dcf205620b191\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2c9facdbf78b0577cbcfbf51693653ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\2c9facdbf78b0577cbcfbf51693653ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\65e3fae7ecb1caab6d3e75b384303181\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-11.8.0.aar\65e3fae7ecb1caab6d3e75b384303181\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\4e65dec3fa7e0d240c60ff10d37b5867\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\4e65dec3fa7e0d240c60ff10d37b5867\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f72e9f0a830f71dd54e661e57cdda5bb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f72e9f0a830f71dd54e661e57cdda5bb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\a185329c616b1197d2dbc255873117af\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\a185329c616b1197d2dbc255873117af\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:20:5-44
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\e6f231afe9663e83e905457377e90fea\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jpardogo.googleprogressbar:library:1.2.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\library-1.2.0.aar\e6f231afe9663e83e905457377e90fea\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69211703b17742f859e22c1f08908f9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\69211703b17742f859e22c1f08908f9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\57602995a08c216d70574cae27b1f851\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\57602995a08c216d70574cae27b1f851\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b75c4092a1c0a03e99864fd9e2967c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b75c4092a1c0a03e99864fd9e2967c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\bd521b2f76445d9b0c8b086797c4861a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\bd521b2f76445d9b0c8b086797c4861a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\95df1af64164366bee54a9b04831fa0a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\95df1af64164366bee54a9b04831fa0a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\b6a247cf73c8c3383c5703539b4bc73b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.8.0.aar\b6a247cf73c8c3383c5703539b4bc73b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\d00a1d50fb8499b9006b836651ddfbf2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\d00a1d50fb8499b9006b836651ddfbf2\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e3b67d77c42995eff61701212f3370ca\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\e3b67d77c42995eff61701212f3370ca\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e8c6b6418a5f6a5ff24490f7efd15a22\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\e8c6b6418a5f6a5ff24490f7efd15a22\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1fe14d1bf610ccc0592941670394662\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1fe14d1bf610ccc0592941670394662\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\00c4bd113d415751f48b103182c789ff\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\00c4bd113d415751f48b103182c789ff\AndroidManifest.xml:4:5-43
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		ADDED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Uniqgrid\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\806996a0c5c2e2990c2fdadf56b616d7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\53dcaa8f14b7703cf1db63eaf08d78b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\f632879908b359eb88d3b83617491f1f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d1cc335f8a9277edf37178fb0f1bc0c5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e1dfd0b7d2edd4121cb78b660ebbaa3c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\632600e60fd6f18103491e014af43ad7\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\e56e76e43782cfbe0ed53aa123cb337b\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ed817eab00a2e2039255fedb7c0ef4e5\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\vinee_000\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\469017dd44da3b39788d3a37fb381643\AndroidManifest.xml:24:13-58

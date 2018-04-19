@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_refresh"
+        android:title="Refresh"/>
+    <item
+        android:id="@+id/menu_item_share_via"
+        android:title="Share via"/>
+    <item
+        android:id="@+id/menu_item_copy_link"
+        android:title="Copy Link"/>
+    <!--<item-->
+        <!--android:id="@+id/menu_item_open_with"-->
+        <!--android:title="Open with"/>-->
+
+</menu>
